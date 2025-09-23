@@ -6,9 +6,10 @@
 
 
 <!-- TODO: Installation -->
-Terminal
+Gems:
 bundle init
 bundle add faker
+
 
 
 
