@@ -4,6 +4,8 @@
 # this script generates fake sales data into a csv file
 # 
 
+# Create database postgres for the headers I want to use
+
 
 # https://learn.dpi.dev/lessons/102-ruby-i-o
 
