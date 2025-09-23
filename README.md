@@ -1,7 +1,20 @@
-# ruby-template
+# group-5-tech-solutions-consulting
 
-Use this template to create new Ruby projects.
+<!-- TODO: description -->
 
-- Ruby version: `3.2.1`
 
-Some rights reserved — see [LICENSE.txt](LICENSE.txt)
+
+
+<!-- TODO: Installation -->
+Terminal
+bundle init
+bundle add faker
+
+
+
+<!-- TODO: how to use -->
+
+
+
+
+<!-- TODO: Contributing -->
