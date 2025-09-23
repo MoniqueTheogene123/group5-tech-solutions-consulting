@@ -8,13 +8,15 @@
 <!-- TODO: Installation -->
 Gems:
 bundle init
-bundle add faker
-
-
+bundle add faker, my_awesome_gem
 
 
 <!-- TODO: how to use -->
-
+run app.rb
+Pulls fake data from Gem.  This data is test data we our team can play with.
+We will pull the data via codespace then, use vscode to (colab) to organize/cleanse
+Print out into a csv
+load to database
 
 
 

@@ -13,3 +13,8 @@
 
 
 
+
+
+def character
+  fetch('parks_and_rec.characters')
+end
