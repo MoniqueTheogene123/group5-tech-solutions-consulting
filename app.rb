@@ -14,9 +14,3 @@
 # conversion = id leads_id sales_rep_id pipeline_stage hours_spend date_of_last_attempt date_of_last_convo potential_order_qoute total_communications
 
 
-
-
-
-def character
-  fetch('parks_and_rec.characters')
-end
