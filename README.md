@@ -8,9 +8,7 @@ load to database
 
 
 <!-- TODO: Installation -->
-Gems:
-bundle init
-bundle add faker, my_awesome_gem, bullet, web-console
+Gems:  bundle add faker, my_awesome_gem, bullet, web-console
 
 
 <!-- TODO: how to use -->
