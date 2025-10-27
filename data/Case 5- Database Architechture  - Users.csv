@@ -1,0 +1,15 @@
+id,name,email,password,admin,role_type
+72,,,,TRUE,sales
+91,FALSE,FALSE,FALSE,FALSE,management
+33,TRUE,TRUE,TRUE,TRUE,sales
+64,,,,FALSE,management
+58,,,,TRUE,sales
+100,,,,FALSE,management
+59,,,,TRUE,sales
+26,,,,FALSE,management
+68,,,,TRUE,sales
+69,,,,FALSE,management
+94,,,,TRUE,sales
+46,,,,FALSE,management
+36,,,,TRUE,sales
+47,,,,FALSE,management
